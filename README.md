@@ -1,4 +1,4 @@
-# S-AES 编程实验
+# S-AES算法实现
 
 Python 3.10+，只使用标准库（含 Tkinter）。启动：
 
